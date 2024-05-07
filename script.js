@@ -85,9 +85,6 @@ const generateRandom = ()=> {
     console.log(scoreRating);
     scoreDiv.innerText = scoreRating;
 }
-    
-
-
 
 const randomButton = document.getElementById("btn");
 
